@@ -1,8 +1,8 @@
 import React from 'react';
-import './Nav.css';
+import './nav.css';
 
 const Nav = () => {
-  return <div></div>;
+  return <div>Navigation Bar</div>;
 };
 
 export default Nav;
