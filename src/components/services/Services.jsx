@@ -47,27 +47,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <FaCheck className="service__list-icon" />
-              <p>Responsive Web Development</p>
+              <p>Server-Side Scripting</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>HTML/CSS Development</p>
+              <p>Database Management</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>JavaScript Development</p>
+              <p>API Development</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>Progressive Web App (PWA) Development</p>
+              <p>Authentication and Authorization</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>Frontend Testing</p>
+              <p>Middleware Development</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>User Interface (UI) Development</p>
+              <p>Microservices Architecture</p>
             </li>
           </ul>
         </article>
@@ -79,27 +79,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <FaCheck className="service__list-icon" />
-              <p>Responsive Web Development</p>
+              <p>WordPress Website Design</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>HTML/CSS Development</p>
+              <p>Website Migration and Upgrades</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>JavaScript Development</p>
+              <p>E-commerce Development</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>Progressive Web App (PWA) Development</p>
+              <p>SEO Integration</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>Frontend Testing</p>
+              <p>Content Management and Training</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>User Interface (UI) Development</p>
+              <p>Performance Optimization</p>
             </li>
           </ul>
         </article>
@@ -111,27 +111,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <FaCheck className="service__list-icon" />
-              <p>Responsive Web Development</p>
+              <p>Cross-Platform Mobile App Development</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>HTML/CSS Development</p>
+              <p>API Integration</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>JavaScript Development</p>
+              <p>Native Module Integration</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>Progressive Web App (PWA) Development</p>
+              <p>Hybrid Web Apps</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>Frontend Testing</p>
+              <p>Web to Mobile Migration</p>
             </li>
             <li>
               <FaCheck className="service__list-icon" />
-              <p>User Interface (UI) Development</p>
+              <p>Code Reusability</p>
             </li>
           </ul>
         </article>
