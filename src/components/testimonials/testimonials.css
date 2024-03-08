@@ -1,6 +1,7 @@
 .container.testimonials__container {
   width: 40%;
   margin: 0 auto;
+  padding-bottom: 4rem;
 }
 .client__avatar {
   width: 4rem;
@@ -23,6 +24,10 @@
   display: block;
   width: 80%;
   margin: 0.8rem auto 0;
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+  background: var(--color-bg-primary);
 }
 
 /* ===================MEDIA QUERIES(MEDIUM) TABLET DEVICES ============================= */
