@@ -5,6 +5,17 @@ import Obinna from '../../assets/Obinna.jpeg';
 import Osinachi from '../../assets/Osinachi.jpeg';
 import Victor from '../../assets/Victor.jpeg';
 
+// import Swiper core and required modules
+import { Navigation, Pagination, Scrollbar, A11y } from 'swiper/modules';
+
+import { Swiper, SwiperSlide } from 'swiper/react';
+
+// Import Swiper styles
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+import 'swiper/css/scrollbar';
+
 const data = [
   {
     image: Abel,
