@@ -32,6 +32,106 @@ const Portfolio = () => {
             live Demo
           </a>
         </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={CalorieTracker} alt="Anthony" />
+          </div>
+          <h3>This is a portfolio item heading</h3>
+          <a
+            href="https://github.com/YOUR PROJECT URL"
+            className="btn"
+            target="_blank"
+          >
+            Github
+          </a>
+          <a
+            href="https://jefclarem-logistics.vercel.app/"
+            className="btn btn-primary"
+            target="_blank"
+          >
+            live Demo
+          </a>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={CinemaApp} alt="Anthony" />
+          </div>
+          <h3>This is a portfolio item heading</h3>
+          <a
+            href="https://github.com/YOUR PROJECT URL"
+            className="btn"
+            target="_blank"
+          >
+            Github
+          </a>
+          <a
+            href="https://jefclarem-logistics.vercel.app/"
+            className="btn btn-primary"
+            target="_blank"
+          >
+            live Demo
+          </a>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={RemoteJob} alt="Anthony" />
+          </div>
+          <h3>This is a portfolio item heading</h3>
+          <a
+            href="https://github.com/YOUR PROJECT URL"
+            className="btn"
+            target="_blank"
+          >
+            Github
+          </a>
+          <a
+            href="https://jefclarem-logistics.vercel.app/"
+            className="btn btn-primary"
+            target="_blank"
+          >
+            live Demo
+          </a>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={SpaceTravellers} alt="Anthony" />
+          </div>
+          <h3>This is a portfolio item heading</h3>
+          <a
+            href="https://github.com/YOUR PROJECT URL"
+            className="btn"
+            target="_blank"
+          >
+            Github
+          </a>
+          <a
+            href="https://jefclarem-logistics.vercel.app/"
+            className="btn btn-primary"
+            target="_blank"
+          >
+            live Demo
+          </a>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={MathMagician} alt="Anthony" />
+          </div>
+          <h3>This is a portfolio item heading</h3>
+          <a
+            href="https://github.com/YOUR PROJECT URL"
+            className="btn"
+            target="_blank"
+          >
+            Github
+          </a>
+          <a
+            href="https://jefclarem-logistics.vercel.app/"
+            className="btn btn-primary"
+            target="_blank"
+          >
+            live Demo
+          </a>
+        </article>
       </div>
     </section>
   );
