@@ -3,6 +3,8 @@ import './contact.css';
 import { MdAttachEmail } from 'react-icons/md';
 import { FaFacebookMessenger } from 'react-icons/fa';
 import { FaWhatsapp } from 'react-icons/fa';
+import React, { useRef } from 'react';
+import emailjs from 'emailjs-com';
 
 const Contact = () => {
   return (
