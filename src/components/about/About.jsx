@@ -36,9 +36,10 @@ const About = () => {
           </div>
           <p>
             Passionate pharmacist turned full-stack developer, proficient in
-            JavaScript, React, Ruby, and Ruby on Rails. Specializing in Node.js,
-            Express, and Next.js. I blend healthcare expertise with coding
-            finesse to create seamless and innovative web solutions.
+            JavaScript, React, React Native, Ruby, and Ruby on Rails.
+            Specializing in Node.js, Express, and Next.js. I blend healthcare
+            expertise with coding finesse to create seamless and innovative web
+            solutions.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
