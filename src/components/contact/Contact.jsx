@@ -11,18 +11,13 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs
-      .sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, {
-        publicKey: 'YOUR_PUBLIC_KEY',
-      })
-      .then(
-        () => {
-          console.log('SUCCESS!');
-        },
-        (error) => {
-          console.log('FAILED...', error.text);
-        }
-      );
+    emailjs.sendForm(
+      'service_pqdetk9',
+      'template_lhrnr56',
+      form.current,
+      'uue-kVpyrlwsIUxaS'
+    );
+    e.target.reset();
   };
 
   return (
@@ -83,5 +78,4 @@ const Contact = () => {
     </section>
   );
 };
-
 export default Contact;
