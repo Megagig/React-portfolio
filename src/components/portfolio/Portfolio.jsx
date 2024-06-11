@@ -6,6 +6,7 @@ import CinemaApp from '../../assets/Cinema.png';
 import RemoteJob from '../../assets/RemoteJob.png';
 import SpaceTravellers from '../../assets/SpaceTravellers.png';
 import MathMagician from '../../assets/Math-Magicians.png';
+import megamovies from '../../assets/megamovies.png';
 
 const data = [
   {
@@ -49,6 +50,14 @@ const data = [
     title: 'The Math Magicians App',
     Github: 'https://github.com/Megagig/math-magicians',
     demo: 'https://math-magicians-8cw7.onrender.com/',
+  },
+
+  {
+    id: 7,
+    image: megamovies,
+    title: 'Megamovies Website',
+    Github: 'https://github.com/Megagig/megamovies',
+    demo: 'https://megamovietv.netlify.app/',
   },
 ];
 
